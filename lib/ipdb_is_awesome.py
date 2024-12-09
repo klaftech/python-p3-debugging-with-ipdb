@@ -3,6 +3,7 @@
 import ipdb
 
 def tracing_the_function():
+    wo = "yim"
     inside_the_function = "We're inside the function"
     print(inside_the_function)
     print("We're about to stop because of ipdb!")
